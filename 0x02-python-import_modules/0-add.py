@@ -1,11 +1,7 @@
 #!/usr/bin/python3
 def add(a, b):
-    """My addition function
-
-    Args:
     a = 1
     b = 2
-    Returns:
-        The return value. a + b
-    """
+    result = add(a, b)
+    print(f"{a} + {b} = {result}")
     return (a + b)
