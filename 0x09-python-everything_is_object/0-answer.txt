@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+def object_type(type):
+    print(type(object_type))
+object_type()
